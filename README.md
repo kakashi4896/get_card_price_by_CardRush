@@ -1,6 +1,6 @@
 # get_card_price_by_CardRush
 
-## Use google app script
+### Use google app script
 
 ## Need line notify token
 
